@@ -21,8 +21,6 @@ body {
   max-width: 900px;
 }
 
-/* Global Typography */
-
 h1 {
   font-size: 3rem;
 }
@@ -53,8 +51,6 @@ button {
   color: #0a2472;
   font-family: 'Space Mono', monospace;
 }
-
-/* Section Container Positions, Spacing, Utilities */
 
 header {
   text-align: center;
